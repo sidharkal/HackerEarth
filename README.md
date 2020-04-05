@@ -4,6 +4,7 @@ HackerEarth Deep Learning Challenge—Auto-tag Images of the Gala
 Problem statement
 
 Galas are the biggest party of the year. Hosting firms of these events are well aware that everyone from around the world has their eyes on these nights—be it for inspiration or for critique. It takes months of meticulous planning and delegation to host these events impeccably.
+These images are published by attendees and the paparazzi on various social media channels and other sources. You are required to build an image auto-tagging model to classify these images into separate categories.
 
 Dataset
 
