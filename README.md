@@ -1,4 +1,4 @@
-#  HackerEarth Deep Learning Challenge —A uto-tag Images of the Gala
+#  HackerEarth Deep Learning Challenge — Auto-tag Images of the Gala
 
 Problem statement
 
