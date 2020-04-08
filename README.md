@@ -10,5 +10,3 @@ Dataset
 
 The dataset consists of 5,983 images that belong to 4 categories. These categories are food, attire, decor and signage, and miscellaneous
 
-download dataset here
-https://he-s3.s3.amazonaws.com/media/hackathon/hackerearth-deep-learning-challenge-auto-tag-images-gala/auto-tag-images-of-the-gala-9e47fb31/9d34462453e311ea.zip?Signature=LXzNUivuinlmX5XG7M2%2FiGOtCjs%3D&Expires=1586081468&AWSAccessKeyId=AKIA6I2ISGOYH7WWS3G5
